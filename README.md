@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustapha2004Belkebir
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html css javascript php 🙃
+- 🌱 I’m currently learning html css javascript php sql 🙃
 - 💞️ I’m looking to collaborate on any project 🥲
 - 📫 How to reach me belkebirfafa2004@gmail.com
 
